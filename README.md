@@ -53,4 +53,4 @@ Go Fiber Framework'ü ve PostgreSQL veritabanı üzerinde temel CRUD (Create, Re
     Bir görevi almak için GET isteği yapın: http://localhost:3000/tasks/{id}
     Bir görev eklemek için POST isteği yapın: http://localhost:3000/tasks
     Bir görevi güncellemek için PUT isteği yapın: http://localhost:3000/tasks/{id}
-    Bir görevi silmek için DELETE isteği yapın: http://localhost:3000/tasks/{id}
+    Bir görevi silmek için DELETE isteği yapın: http://localhost:3000/tasks/{id} 
